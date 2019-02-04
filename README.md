@@ -1,3 +1,6 @@
+![alt text](https://github.com/kdd-anonymous/rankfromsets/raw/master/arxiv_user_embeddings_tsne.png)
+
+
 # Rank From Sets
 
 This code accompanies the recommending items from attributes anonymous KDD submission.
